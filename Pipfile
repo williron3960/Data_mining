@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+commitizen = "==2.17.6"
+pylint = "==2.8.2"
+pandas = "==1.2.4"
+numpy = "==1.20.3"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
